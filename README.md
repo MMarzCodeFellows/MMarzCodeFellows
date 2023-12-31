@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mikea Marzett from Oklahoma City, OK and can be found @MMarzCodeFellows .
+- 👋 Hi, I’m Mikea Marzett from Oklahoma City, OK and I can be found @MMarzCodeFellows .
 - 👀 I’m interested in learning new software development skills as I participate in the self-placed
  curriculum with Code Fellows.
 - 🌱 I’m currently learning website development & website structure. 
