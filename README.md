@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikea Marzett from Oklahoma City, OK and can be found @MMarzCodeFellows .
 - 👀 I’m interested in learning new software development skills as I participate in the self-placed
- curriculum with CODE Fellows.
+ curriculum with Code Fellows.
 - 🌱 I’m currently learning website development & website structure. 
 - 💞️ I’m looking to collaborate on many new topics from HTML, workflow processes, and so much more.
 - 📫 How to reach me easiest is on the app slack.com under Mikea Marzett, via github at https://MMarzett.github.io/reading-notes/ , or at my email mmarzett2005@yahoo.com.
